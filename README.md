@@ -22,7 +22,7 @@ Coding was an unexpected passion that recently showed up in my life. Therefore, 
 
 ## University Projects
 
-- [Battleship: under construction…](https://github.com/margarida-paulo/Battleship)
+- [Battleship: under construction…](https://github.com/margarida-paulo/Batalha-Naval/Battleship)
 
 <br>
 <br>
