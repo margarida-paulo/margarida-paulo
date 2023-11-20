@@ -6,10 +6,11 @@
   My name is Margarida Paulo, and I am currently a software development student in 42 Lisboa, and a Computing Engineer student in Universidade Lusófona de Lisboa. I also have a degree in Fashion Design from the Faculty of Architecture of the University of Lisbon. I am currently working on learning as much as I can about coding and computing in general.
 Coding was an unexpected passion that recently showed up in my life. Therefore, I'm looking forward to taking all the opportunities I can to improve this skill, and to make myself a better, more well-rounded professional in the field.
 
+[![Badge]](https://ionicabizau.github.io/github-profile-languages/api.html?margarida-paulo)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=margarida-paulo&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margarida-paulo&layout=pie&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margarida-paulo&layout=pie&theme=radical&langs_count=5&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## 42 School Projects
