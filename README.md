@@ -2,9 +2,13 @@
 <h1 align="center">Hello, welcome to my Journey! 👋</h1>
 
 <div align="center">
+**EN**
+Hello, my name is Margarida Paulo, and I am a passionate Back-End Software Developer with a strong foundation in C programming and a comprehensive understanding of various other languages, such as C++, Kotlin and Java. My academic journey has equipped me with a robust understanding of back-end development and the ability to quickly learn and adapt to new technologies. I am eager to put my skills to work in a challenging role, so that I can contribute to team success and further enhance my knowledge.
 
-  My name is Margarida Paulo, and I am currently a software development student in 42 Lisboa, and a Computing Engineer student in Universidade Lusófona de Lisboa. I also have a degree in Fashion Design from the Faculty of Architecture of the University of Lisbon. I am currently working on learning as much as I can about coding and computing in general.
-Coding was an unexpected passion that recently showed up in my life. Therefore, I'm looking forward to taking all the opportunities I can to improve this skill, and to make myself a better, more well-rounded professional in the field.
+<br>
+
+**PT:**
+Olá, eu sou a Margarida Paulo, e sou sesenvolvedora de Software Back-End, com uma sólida base em C e um entendimento abrangente de várias outras linguagens, tais como C++, Kotlin ou Java. A minha jornada académica equipou-me com um robusto entendimento do desenvolvimento back-end, e com a capacidade de aprender e adaptar-me rapidamente a novas tecnologias. Estou ansiosa para colocar as minhas habilidades em prática num trabalho desafiante, de forma a poder contribuir para o sucesso de uma equipa e aprimorar ainda mais o meu conhecimento.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=margarida-paulo&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
