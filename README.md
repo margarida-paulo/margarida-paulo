@@ -32,14 +32,13 @@ Coding was an unexpected passion that recently showed up in my life. Therefore, 
 <div align="center">
 
 ## CV
+<br>
 
-<img width="300" alt="CV Nov 2023 EN" src="https://github.com/margarida-paulo/margarida-paulo/assets/63985525/fd3a540a-8887-4773-93e6-fefb3f6e234d">
-
-[Open png in browser](https://user-images.githubusercontent.com/63985525/284259509-fd3a540a-8887-4773-93e6-fefb3f6e234d.png)
-
-[Download as PDF](https://github.com/margarida-paulo/margarida-paulo/files/13413733/CV.NOV2023.EN.pdf)
-[Download CV: English Version](https://github.com/margarida-paulo/margarida-paulo/files/15381205/CV.May.2024.PT.pdf)
-[Download CV: Portuguese Version](https://github.com/margarida-paulo/margarida-paulo/files/15381202/CV.May.2024.EN.pdf)
+| Português | English |
+|:---: | :---:|
+| <img width="400" alt="CV: Portuguese Version" src="https://github.com/margarida-paulo/margarida-paulo/assets/63985525/29fc70c7-c8c9-4553-9f1a-1b1bfc5c3ba1"> | <img width="400" alt="CV: English Version" src="https://github.com/margarida-paulo/margarida-paulo/assets/63985525/367396e5-c656-48f3-9a60-35494e61b14a"> |
+| [View CV as png in browser: PT](https://github.com/margarida-paulo/margarida-paulo/assets/63985525/29fc70c7-c8c9-4553-9f1a-1b1bfc5c3ba1) | [View CV as png in browser: EN](https://github.com/margarida-paulo/margarida-paulo/assets/63985525/367396e5-c656-48f3-9a60-35494e61b14a) |
+| [Download CV PDF: Portuguese Version](https://github.com/margarida-paulo/margarida-paulo/files/15381205/CV.May.2024.PT.pdf)  | [Download CV PDF: English Version](https://github.com/margarida-paulo/margarida-paulo/files/15381202/CV.May.2024.EN.pdf) |
 
 
 </div>
