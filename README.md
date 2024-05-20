@@ -38,6 +38,9 @@ Coding was an unexpected passion that recently showed up in my life. Therefore, 
 [Open png in browser](https://user-images.githubusercontent.com/63985525/284259509-fd3a540a-8887-4773-93e6-fefb3f6e234d.png)
 
 [Download as PDF](https://github.com/margarida-paulo/margarida-paulo/files/13413733/CV.NOV2023.EN.pdf)
+[Download CV: English Version](https://github.com/margarida-paulo/margarida-paulo/files/15381205/CV.May.2024.PT.pdf)
+[Download CV: Portuguese Version](https://github.com/margarida-paulo/margarida-paulo/files/15381202/CV.May.2024.EN.pdf)
+
 
 </div>
 <!--
