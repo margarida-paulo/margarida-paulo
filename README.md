@@ -29,16 +29,37 @@ Olá, eu sou a Margarida Paulo, e sou desenvolvedora de Software Back-End, com u
   
 ## 42 School Projects
 
-<a href="[default.asp](https://github.com/margarida-paulo/Libft)">
+<a href="https://github.com/margarida-paulo/Libft">
   <img src="https://github.com/margarida-paulo/margarida-paulo/assets/63985525/a258577c-b1dd-4399-93cb-757eb30f77c8">
 </a>
-[Printf](https://github.com/margarida-paulo/Printf) <br>
-[Get Next Line](https://github.com/margarida-paulo/GetNextLine) <br>
-[Push Swap: with Bonus](https://github.com/margarida-paulo/Push-Swap-with-Checker) <br>
-[So Long: Linux version with Bonus](https://github.com/margarida-paulo/So_Long_Linux_Enemies) <br>
-[Pipex: with Bonus (part 1)](https://github.com/margarida-paulo/Pipex) <br>
-[Minitalk: with 1 Bonus](https://github.com/margarida-paulo/Minitalk) <br>
-[Minishell - Collaboration project](https://github.com/Pouya-L/minishell_WIP) <br>
+
+<a href="https://github.com/margarida-paulo/Printf">
+  <img src="https://github.com/margarida-paulo/margarida-paulo/assets/63985525/35b114ed-00af-4f3e-8de2-64facc38d197">
+</a>
+
+<a href="https://github.com/margarida-paulo/GetNextLine">
+  <img src="https://github.com/margarida-paulo/margarida-paulo/assets/63985525/d09c7bad-ef19-4726-a729-b3e58960a45a">
+</a>
+
+<a href="https://github.com/margarida-paulo/Push-Swap-with-Checker">
+  <img src="https://github.com/margarida-paulo/margarida-paulo/assets/63985525/462f905d-2900-41ce-8e40-87fa28ca9327">
+</a>
+
+<a href="https://github.com/margarida-paulo/So_Long_Linux_Enemies">
+  <img src="https://github.com/margarida-paulo/margarida-paulo/assets/63985525/d06e1b69-7108-4bd9-aa46-7889fc599d9f">
+</a>
+
+<a href="https://github.com/margarida-paulo/Pipex">
+  <img src="https://github.com/margarida-paulo/margarida-paulo/assets/63985525/a6d0cd7f-8bff-40bb-b4ee-4fa57a7cf2ee">
+</a>
+
+<a href="https://github.com/margarida-paulo/Minitalk">
+  <img src="https://github.com/margarida-paulo/margarida-paulo/assets/63985525/329e5e4c-513a-49a8-9d46-a45eaf3406dc">
+</a>
+
+<a href="https://github.com/Pouya-L/minishell_WIP">
+  <img src="https://github.com/margarida-paulo/margarida-paulo/assets/63985525/337a22ef-2fcf-41dd-bc20-116817924893">
+</a>
 
 <br>
 
