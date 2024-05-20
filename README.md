@@ -19,6 +19,8 @@ Coding was an unexpected passion that recently showed up in my life. Therefore, 
 - [Push Swap: with Bonus](https://github.com/margarida-paulo/Push-Swap-with-Checker)
 - [So Long: Linux version with Bonus](https://github.com/margarida-paulo/So_Long_Linux_Enemies)
 - [Pipex: with Bonus (part 1)](https://github.com/margarida-paulo/Pipex)
+- [Minitalk: with 1 Bonus](https://github.com/margarida-paulo/Minitalk)
+- [Minishell - Collaboration project](https://github.com/Pouya-L/minishell_WIP)
 
 ## University Projects
 
