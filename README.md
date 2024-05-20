@@ -17,28 +17,38 @@ Hello, my name is Margarida Paulo, and I am a passionate Back-End Software Devel
 <br>
 Olá, eu sou a Margarida Paulo, e sou desenvolvedora de Software Back-End, com uma sólida base em C e um entendimento abrangente de várias outras linguagens, tais como C++, Kotlin ou Java. A minha jornada académica equipou-me com um robusto entendimento do desenvolvimento back-end, e com a capacidade de aprender e adaptar-me rapidamente a novas tecnologias. Estou ansiosa para colocar as minhas habilidades em prática num trabalho desafiante, de forma a poder contribuir para o sucesso de uma equipa e aprimorar ainda mais o meu conhecimento.
 
+<br><br>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=margarida-paulo&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margarida-paulo&layout=pie&theme=radical&langs_count=5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<br><br>
+<div align="center">
+  
 ## 42 School Projects
 
-- [Libft: with Bonus](https://github.com/margarida-paulo/Libft)
-- [Printf](https://github.com/margarida-paulo/Printf)
-- [Get Next Line](https://github.com/margarida-paulo/GetNextLine)
-- [Push Swap: with Bonus](https://github.com/margarida-paulo/Push-Swap-with-Checker)
-- [So Long: Linux version with Bonus](https://github.com/margarida-paulo/So_Long_Linux_Enemies)
-- [Pipex: with Bonus (part 1)](https://github.com/margarida-paulo/Pipex)
-- [Minitalk: with 1 Bonus](https://github.com/margarida-paulo/Minitalk)
-- [Minishell - Collaboration project](https://github.com/Pouya-L/minishell_WIP)
+<a href="[default.asp](https://github.com/margarida-paulo/Libft)">
+  <img src="https://github.com/margarida-paulo/margarida-paulo/assets/63985525/a258577c-b1dd-4399-93cb-757eb30f77c8">
+</a>
+[Printf](https://github.com/margarida-paulo/Printf) <br>
+[Get Next Line](https://github.com/margarida-paulo/GetNextLine) <br>
+[Push Swap: with Bonus](https://github.com/margarida-paulo/Push-Swap-with-Checker) <br>
+[So Long: Linux version with Bonus](https://github.com/margarida-paulo/So_Long_Linux_Enemies) <br>
+[Pipex: with Bonus (part 1)](https://github.com/margarida-paulo/Pipex) <br>
+[Minitalk: with 1 Bonus](https://github.com/margarida-paulo/Minitalk) <br>
+[Minishell - Collaboration project](https://github.com/Pouya-L/minishell_WIP) <br>
+
+<br>
 
 ## University Projects
 
-- [Battleship](https://github.com/margarida-paulo/Batalha-Naval)
+[Battleship](https://github.com/margarida-paulo/Batalha-Naval) <br>
 
-<br>
-<br>
+</div>
+
+<br><br>
 
 <div align="center">
 
